@@ -1,1 +1,1 @@
-# Predict-salary
+# Linear_regression_sample
